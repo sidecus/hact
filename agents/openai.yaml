@@ -1,0 +1,4 @@
+interface:
+  display_name: "HACT"
+  short_description: "History-aware collaboration tuning from Codex sessions"
+  default_prompt: "Review project-scoped Codex session history, summarize recurring preferences, and propose guardrail or protocol updates."
